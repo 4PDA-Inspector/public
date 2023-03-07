@@ -1,1 +1,8 @@
 remote_theme: pages-themes/architect@v0.2.0
+
+title: 4PDA Инспектор
+description: Испектируем с 2012
+
+github:
+  zip_url: https://github.com/4PDA-Inspector/4pda-inspector
+  another_url: https://github.com/4PDA-Inspector
